@@ -32,7 +32,7 @@ Here's a complete example of a decorator that turns all of a function's global a
         f.__code__ = code.to_code()
         return f
 
-    [1] https://wiki.python.org/moin/ByteplayDoc
-    [2] https://github.com/abarnert/byteplay
-    [3] https://docs.python.org/3/library/dis.html
-    [4] https://bitbucket.org/larry/maynard
+  [1]: https://wiki.python.org/moin/ByteplayDoc
+  [2]: https://github.com/abarnert/byteplay
+  [3]: https://docs.python.org/3/library/dis.html
+  [4]: https://bitbucket.org/larry/maynard
